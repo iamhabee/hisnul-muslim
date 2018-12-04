@@ -1,0 +1,10 @@
+export { HomePage} from '../pages/home/home';
+export { SplashScreenPage} from '../pages/splash-screen/splash-screen';
+export { ContactPage} from '../pages/contact/contact';
+export { AboutPage} from '../pages/about/about';
+export { AzkarPage} from '../pages/azkar/azkar';
+export { MedicinesPage} from '../pages/medicines/medicines';
+export { RobanaPage} from '../pages/robana/robana';
+export { AzkarDetailsPage} from '../pages/azkar-details/azkar-details';
+export { MedicinesDetailsPage} from '../pages/medicines-details/medicines-details';
+export { RobanaDetailsPage} from '../pages/robana-details/robana-details';
